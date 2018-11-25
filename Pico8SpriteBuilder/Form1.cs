@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+//copyright Hurray Banana November 2018
 namespace Pico8SpriteBuilder
 {
     public partial class Form1 : Form
